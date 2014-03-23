@@ -1,5 +1,3 @@
-# Gulp Task Starter
-
 ### Usage
 ---
 1. Install Gulpjs : [gulp getting started](https://github.com/gulpjs/gulp/blob/master/docs/getting-started.md#getting-started)
