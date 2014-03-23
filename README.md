@@ -1,5 +1,4 @@
 # Gulp Task Starter
----
 
 ### Usage
 ---
@@ -11,6 +10,7 @@
 6. Jalankan gulp : `gulp`
 
 ### Gulp Command
+---
 
 Semua Gulp command outputnya akan berada di folder `../assets/front/`
 
