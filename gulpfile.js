@@ -1,5 +1,5 @@
 /**
- * WordPress/Woo Theme Gulp Task
+ * Theme Gulp Task
  *
  * TODO :
  * - custom task to migrate mysql db
